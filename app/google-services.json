@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885011951470",
+    "project_id": "share-my-food-7e407",
+    "storage_bucket": "share-my-food-7e407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885011951470:android:caf6b2320ab50d7e549b7f",
+        "android_client_info": {
+          "package_name": "com.sharemyfood.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885011951470-4mfndhknkhr85sf1bfkvemq4184p76hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJcN6v0Bo-JvMbDFK-t9eyjwHjwGRnOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885011951470-4mfndhknkhr85sf1bfkvemq4184p76hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

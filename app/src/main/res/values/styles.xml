@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FCE38A</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#F38181</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+    <style name="WelcomeTextStyle" parent="android:TextAppearance.Large">
+        <item name="android:textColor">#F38181</item> <!-- Contrasting color -->
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="LoginTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#FFF</item> <!-- Customize the outline box stroke color -->
+        <item name="boxStrokeWidth">2dp</item> <!-- Customize the outline box stroke width -->
+        <item name="hintTextColor">#FFF</item> <!-- Customize the hint text color -->
+    </style>
+
+    <!-- Custom style for centered text -->
+    <style name="AppTextStyle">
+        <item name="android:textColor">#000</item> <!-- Contrasting color -->
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <!-- Custom style for buttons -->
+    <style name="AppButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:textColor">#FCE38A</item>
+        <item name="android:backgroundTint">#F38181</item>
+        <!-- Add other button customizations as needed -->
+    </style>
+</resources>
